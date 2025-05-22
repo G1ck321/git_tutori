@@ -1,5 +1,0 @@
-#use q to quit git log
-#git log --all --graph shows all commits
-#branching creates copy of version history, you can now add commits to this new branch
-#So you can fix the bugs on the original then deploy them
-#To switch to a new branch use git checkout (branchname)
