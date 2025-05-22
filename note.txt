@@ -7,4 +7,8 @@
 #When you combine changes you have both details from file 1 and file2
 #To merge switch to master then merge all changes then git merge other_branch_name
 #git conflict occurs when git does not know which change it should use
-git feature branch has to do with the workflow, it is a step-by-step process
+git feature branch has to do with the workflow, it is a step-by-step process:
+    Create a feature branch.
+    upload feature branch to github
+    create pull request(do code reviews)
+    merge feature branch into main(merges happen on github)
