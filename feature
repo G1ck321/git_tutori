@@ -1,2 +1,2 @@
 conflict 1
-Fastapi jor :🔥
+Fastapi jor 🔥
